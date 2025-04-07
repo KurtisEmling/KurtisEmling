@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KurtisEmling
 
-  - 👀 I’m interested in library science, programming, data analytics, neural networks, automation, and IT security. I am a life-long learner, growing and doing.
-  - 🌱 I’m currently learning data analytics - Google Data Analytics Professional Certificate on Coursera and Data Camp's Data Analyst with Python
-  - 💞️ I’m looking to collaborate on data projects to get more young people excited about E-Learning and visiting their local library.        
+  - 👀 I’m interested in supply chain, manufacturing, library science, programming, data analytics, neural networks, automation, and IT security. I am a life-long learner, growing and doing.
+  - 🌱 Learning database, file management, compression, and at home server builds
+  - 💞️ I’m looking to collaborate on open source databases that can be used at home to host your own code base        
   - 📫 How to reach me send a follow or reach out to me on LinkedIn! :) 
 
 <!---
